@@ -1,6 +1,8 @@
 # WeChatVideoDL
 一个下载微信视频号视频的工具
 
+wx: kuaisheng188
+
 ## v1.7.1
 
 1. 新增博主列表抓取；
